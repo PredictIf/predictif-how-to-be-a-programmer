@@ -65,7 +65,7 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
 
 4. [AWS and Data Analytics](5-AWS)
 
-   - [Heavy Tools we Use](2-Intermediate/Personal-Skills/10-Heavy-Tools.md)
+   - [Tools we Use](2-Intermediate/Personal-Skills/10-Heavy-Tools.md)
 
    - AWS Services
 
