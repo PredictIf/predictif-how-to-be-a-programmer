@@ -43,7 +43,7 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
      - [How to Fight Schedule Pressure](3-Advanced/Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
      - [How to Choose What to Work On First](3-Advanced/Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
      - [How to Find Information](1-Beginner/Team-Skills/03-How-to-Find-Out-Information.md)
-     - [How to Get the Most From Your Team-mates](3-Advanced/Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
+     - [How to Get Help From Your Team-mates](3-Advanced/Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
      - [How to Divide Problems Up](3-Advanced/Serving-Your-Team/04-How-to-Divide-Problems-Up.md)
      - [How to Grow a System](3-Advanced/Serving-Your-Team/07-How-to-Grow-a-System.md)
      - [How to Understand the User/Client](3-Advanced/Compromising-Wisely/02-How-to-Understand-the-User.md)
