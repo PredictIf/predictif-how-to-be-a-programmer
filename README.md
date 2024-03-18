@@ -4,9 +4,9 @@
 
 Welcome to the **PREDICTif Programmer's Handbook**, a guide through the complexities of excelling as a programmer at PREDICTif. Mastery in programming goes beyond writing code with intelligence and skill; it's about harmonizing with your team and achieving excellence that transcends the code itself.
 
-This document intents to address, the essence of what it means to be not just a good programmer, but a great developer within the PREDICTif landscape. We delve into the realms of technical skills, relationship with team-mates and clients, and the specificity of our industry, AWS, and our particular niche This guide combine universally applicable wisdom and insights specific to PREDICTif, shaped by our experience as well as explicit paths of learning and tools to use in PREDICTif
+This document intents to address, the essence of what it means to be not just a good programmer, but a great developer within the PREDICTif landscape. We delve into the realms of technical skills, relationship with team-mates and clients, and the specificity of our industry, AWS, and our particular niche This guide combine universally applicable wisdom and insights specific to PREDICTif, shaped by our experience as well as explicit paths of learning and tools to use in PREDICTif.
 
-Welcome to PREDICTif, where your journey towards becoming an exceptional programmer begins !
+Welcome to PREDICTif, where your journey towards becoming an exceptional programmer begins!
 
 ## Contents
 
@@ -65,7 +65,9 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
 
 4. [AWS and Data Analytics](5-AWS)
 
-   - [Tools we Use](2-Intermediate/Personal-Skills/10-Heavy-Tools.md)
+   - [Heavy Tools we Use](2-Intermediate/Personal-Skills/10-Heavy-Tools.md)
+   - [GenAI Tools we Use](2-Intermediate/Personal-Skills/10-Heavy-Tools.md)
+   - [How to Start a Project](2-Intermediate/Personal-Skills/09-How-to-Start-a-Project.md)
    - [How to Deliver a Project](2-Intermediate/Personal-Skills/09-How-to-Deliver-a-Project.md)
 
    - AWS Services
