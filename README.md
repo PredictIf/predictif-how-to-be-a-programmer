@@ -36,6 +36,7 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
    - Technological Judgment
      - [How to Tell the Hard From the Impossible](3-Advanced/Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
      - [How to Talk to Non-Engineers](2-Intermediate/Judgment/08-How-to-Talk-to-Non-Engineers.md)
+     - [How to Know When to Apply Fancy Things](en/2-Intermediate/Judgment/07-How-to-Know-When-to-Apply-Fancy-Computer-Science.md)
 
    - Serving Your Team
      - [How to Fight Schedule Pressure](3-Advanced/Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
@@ -43,7 +44,7 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
      - [How to Get the Most From Your Team-mates](3-Advanced/Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
      - [How to Divide Problems Up](3-Advanced/Serving-Your-Team/04-How-to-Divide-Problems-Up.md)
      - [How to Grow a System](3-Advanced/Serving-Your-Team/07-How-to-Grow-a-System.md)
-     - [How to Understand the User](3-Advanced/Compromising-Wisely/02-How-to-Understand-the-User.md)
+     - [How to Understand the User/Client](3-Advanced/Compromising-Wisely/02-How-to-Understand-the-User.md)
 
    - Judgment
      - [How to Tradeoff Quality Against Development Time](2-Intermediate/Judgment/01-How-to-Tradeoff-Quality-Against-Development-Time.md)
@@ -55,15 +56,31 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
 
    - [How to Stay Motivated](2-Intermediate/Personal-Skills/01-How-to-Stay-Motivated.md)
    - [How to Grow Professionally](2-Intermediate/Judgment/05-How-to-Grow-Professionally.md)
+   - [Learning Path for Python](4-Skills/01-Learning-Path-for-Python.md)
+   - [Learning Path for JavaScript](4-Skills/02-Learning-Path-for-JavaScript.md)
+   - [Learning Path for Java](4-Skills/03-Learning-Path-for-Java.md)
+   - [Learning Path for Parallel Python](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
+   - [Learning Path for Ansible specific to AWS](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
+   - [Learning Path for React](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
 
 4. [AWS and Data Analytics](5-AWS)
+
+   - [Heavy Tools we Use](2-Intermediate/Personal-Skills/10-Heavy-Tools.md)
 
    - AWS Services
 
      - [How to Use AWS](5-AWS/01-How-to-Use-AWS.md)
-     - [How develop a project in AWS](5-AWS/03-How-to-develop-a-project-in-AWS.md)
+     - [How Develop a Project in AWS](5-AWS/03-How-to-develop-a-project-in-AWS.md)
+     - [How to Implement CI/CD in AWS](5-AWS/03-How-to-develop-a-project-in-AWS.md)
+     - [How to Approach Migration to AWS](5-AWS/04-How-to-Approach-Migration-to-AWS.md)
+     -
 
    - Data Analytics
 
-     - [Heavy Tools we Use](2-Intermediate/Personal-Skills/10-Heavy-Tools.md)
      - [How to analyze data](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+     - [How to  Implement MLOps in AWS](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+
+5. [Specific to PREDICTif](5-Specific)
+6. 
+      - [General AWS Directives](5-Specific/00-General-AWS-Directives.md)
+      - [Naming Convetions](5-Specific/01-Naming-Conventions.md)
