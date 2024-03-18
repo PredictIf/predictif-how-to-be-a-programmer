@@ -35,7 +35,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
    - [How to Use Source Code Control](1-Beginner/Team-Skills/07-How-to-Use-Source-Code-Control.md)
    - [How to Unit Test](1-Beginner/Team-Skills/08-How-to-Unit-Test.md)
    - [How to Do Integration Testing](2-Intermediate/Personal-Skills/08-How-to-Do-Integration-Testing.md)
-   - [How to Stress Testing](2-Intermediate/Personal-Skills/04-How-to-Stress-Test.md)
+   - [How to Do Stress Testing](2-Intermediate/Personal-Skills/04-How-to-Stress-Test.md)
 
 
 2. [General Skills - Advanced Topics](020-Advanced)
