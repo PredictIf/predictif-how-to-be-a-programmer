@@ -73,7 +73,6 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
      - [How Develop a Project in AWS](5-AWS/03-How-to-develop-a-project-in-AWS.md)
      - [How to Implement CI/CD in AWS](5-AWS/03-How-to-develop-a-project-in-AWS.md)
      - [How to Approach Migration to AWS](5-AWS/04-How-to-Approach-Migration-to-AWS.md)
-     -
 
    - Data Analytics
 
