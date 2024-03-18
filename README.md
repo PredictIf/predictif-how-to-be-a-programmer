@@ -66,18 +66,23 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
 4. [AWS and Data Analytics](5-AWS)
 
    - [Tools we Use](2-Intermediate/Personal-Skills/10-Heavy-Tools.md)
+   - [How to Deliver a Project](2-Intermediate/Personal-Skills/09-How-to-Deliver-a-Project.md)
 
    - AWS Services
 
-     - [How to Use AWS](5-AWS/01-How-to-Use-AWS.md)
      - [How Develop a Project in AWS](5-AWS/03-How-to-develop-a-project-in-AWS.md)
+     - [How to Find Accelerators for AWS](5-AWS/02-How-to-Find-Accelerators-for-AWS.md)
      - [How to Implement CI/CD in AWS](5-AWS/03-How-to-develop-a-project-in-AWS.md)
-     - [How to Approach Migration to AWS](5-AWS/04-How-to-Approach-Migration-to-AWS.md)
+     - [How to Approach Migration](5-AWS/04-How-to-Approach-Migration-to-AWS.md)
 
    - Data Analytics
 
-     - [How to analyze data](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+     - [How to Analyze Data](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+     - [How and When to Use Synthetic Data](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+     - [How to  Implement DataOps in AWS](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
      - [How to  Implement MLOps in AWS](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+     - [How to use Django in AWS and Data Analytics](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+     - [How to use Streamlit in AWS and Data Analytics](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
 
 5. [Specific to PREDICTif](5-Specific)
 
