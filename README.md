@@ -28,7 +28,6 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
    - [How to Use Source Code Control](1-Beginner/Team-Skills/07-How-to-Use-Source-Code-Control.md)
    - [How to Unit Test](1-Beginner/Team-Skills/08-How-to-Unit-Test.md)
    - [How to Do Integration Testing](2-Intermediate/Personal-Skills/08-How-to-Do-Integration-Testing.md)
-   - [How to Do Load Testing](2-Intermediate/Personal-Skills/08-How-to-Do-Integration-Testing.md)
    - [How to Stress Testing](2-Intermediate/Personal-Skills/04-How-to-Stress-Test.md)
 
 
@@ -37,6 +36,8 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
      - [How to Tell the Hard From the Impossible](3-Advanced/Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
      - [How to Talk to Non-Engineers](2-Intermediate/Judgment/08-How-to-Talk-to-Non-Engineers.md)
      - [How to Know When to Apply Fancy Things](en/2-Intermediate/Judgment/07-How-to-Know-When-to-Apply-Fancy-Computer-Science.md)
+     - [How to Grow Professionally](2-Intermediate/Judgment/05-How-to-Grow-Professionally.md)
+     - [How to Stay Motivated](2-Intermediate/Personal-Skills/01-How-to-Stay-Motivated.md)
 
    - Serving Your Team
      - [How to Fight Schedule Pressure](3-Advanced/Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
@@ -55,8 +56,6 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
 
 3. [Learning Paths for Our Industry](4-Skills)
 
-   - [How to Stay Motivated](2-Intermediate/Personal-Skills/01-How-to-Stay-Motivated.md)
-   - [How to Grow Professionally](2-Intermediate/Judgment/05-How-to-Grow-Professionally.md)
    - [Learning Path for Python](4-Skills/01-Learning-Path-for-Python.md)
    - [Learning Path for JavaScript](4-Skills/02-Learning-Path-for-JavaScript.md)
    - [Learning Path for Java](4-Skills/03-Learning-Path-for-Java.md)
