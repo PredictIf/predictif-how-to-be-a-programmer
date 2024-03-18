@@ -81,6 +81,6 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
      - [How to  Implement MLOps in AWS](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
 
 5. [Specific to PREDICTif](5-Specific)
-6.
+
       - [General AWS Directives](5-Specific/00-General-AWS-Directives.md)
       - [Naming Convetions](5-Specific/01-Naming-Conventions.md)
