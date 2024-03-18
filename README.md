@@ -29,7 +29,7 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
    - [How to Unit Test](1-Beginner/Team-Skills/08-How-to-Unit-Test.md)
    - [How to Do Integration Testing](2-Intermediate/Personal-Skills/08-How-to-Do-Integration-Testing.md)
    - [How to Do Load Testing](2-Intermediate/Personal-Skills/08-How-to-Do-Integration-Testing.md)
-   - [How to Stress Test](2-Intermediate/Personal-Skills/04-How-to-Stress-Test.md)
+   - [How to Stress Testing](2-Intermediate/Personal-Skills/04-How-to-Stress-Test.md)
 
 
 2. [General Skills - Advanced Topics](3-Advanced)
