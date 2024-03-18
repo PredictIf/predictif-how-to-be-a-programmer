@@ -22,7 +22,7 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
    - [Why Estimation is Important](1-Beginner/Team-Skills/01-Why-Estimation-is-Important.md)
    - [How to Estimate Programming Time](1-Beginner/Team-Skills/02-How-to-Estimate-Programming-Time.md)
    - [How to Manage Development Time](2-Intermediate/Team-Skills/01-How-to-Manage-Development-Time.md)
-   - [How to Get Help and Find Out Information](1-Beginner/Team-Skills/03-How-to-Find-Out-Information.md)
+   - [How to Get Help From Team-Mates](1-Beginner/Team-Skills/03-How-to-Find-Out-Information.md)
    - [How to Document Wisely](1-Beginner/Team-Skills/05-How-to-Document-Wisely.md)
    - [How to Work with Poor Code](1-Beginner/Team-Skills/06-How-to-Work-with-Poor-Code.md)
    - [How to Use Source Code Control](1-Beginner/Team-Skills/07-How-to-Use-Source-Code-Control.md)
@@ -81,6 +81,6 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
      - [How to  Implement MLOps in AWS](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
 
 5. [Specific to PREDICTif](5-Specific)
-6. 
+6.
       - [General AWS Directives](5-Specific/00-General-AWS-Directives.md)
       - [Naming Convetions](5-Specific/01-Naming-Conventions.md)
