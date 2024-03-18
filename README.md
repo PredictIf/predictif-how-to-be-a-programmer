@@ -12,6 +12,7 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
 
 1. [General Skills for Programmers](1-Beginner)
 
+   - [How to Approach a Problem](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
    - [Learn to Debug](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
    - [How to Debug by Splitting the Problem Space](1-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
    - [How to Remove an Error](1-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
@@ -22,7 +23,6 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
    - [Why Estimation is Important](1-Beginner/Team-Skills/01-Why-Estimation-is-Important.md)
    - [How to Estimate Programming Time](1-Beginner/Team-Skills/02-How-to-Estimate-Programming-Time.md)
    - [How to Manage Development Time](2-Intermediate/Team-Skills/01-How-to-Manage-Development-Time.md)
-   - [How to Get Help From Team-Mates](1-Beginner/Team-Skills/03-How-to-Find-Out-Information.md)
    - [How to Document Wisely](1-Beginner/Team-Skills/05-How-to-Document-Wisely.md)
    - [How to Work with Poor Code](1-Beginner/Team-Skills/06-How-to-Work-with-Poor-Code.md)
    - [How to Use Source Code Control](1-Beginner/Team-Skills/07-How-to-Use-Source-Code-Control.md)
@@ -41,6 +41,7 @@ Welcome to PREDICTif, where your journey towards becoming an exceptional program
    - Serving Your Team
      - [How to Fight Schedule Pressure](3-Advanced/Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
      - [How to Choose What to Work On First](3-Advanced/Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
+     - [How to Find Information](1-Beginner/Team-Skills/03-How-to-Find-Out-Information.md)
      - [How to Get the Most From Your Team-mates](3-Advanced/Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
      - [How to Divide Problems Up](3-Advanced/Serving-Your-Team/04-How-to-Divide-Problems-Up.md)
      - [How to Grow a System](3-Advanced/Serving-Your-Team/07-How-to-Grow-a-System.md)
