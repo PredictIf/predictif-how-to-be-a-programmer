@@ -35,6 +35,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
    - [How to Unit Test](010-Beginner/Team-Skills/08-How-to-Unit-Test.md)
    - [How to Do Integration Testing](020-Intermediate/Personal-Skills/08-How-to-Do-Integration-Testing.md)
    - [How to Do Stress Testing](020-Intermediate/Personal-Skills/04-How-to-Stress-Test.md)
+
 2. [General Skills - Advanced Topics](020-Advanced)
 
    - Technological Judgment
@@ -58,6 +59,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
      - [How to Grow a System](020-Advanced/Serving-Your-Team/07-How-to-Grow-a-System.md)
      - [How to Understand the User/Client](020-Advanced/Compromising-Wisely/02-How-to-Understand-the-User.md)
      - [How to Tell People Things They Don&#39;t Want to Hear](020-Advanced/Serving-Your-Team/09-How-to-Tell-People-Things-They-Dont-Want-to-Hear.md)
+
 3. [Learning Paths for Our Industry](4-Skills)
 
    - [Learning Path for Python](4-Skills/01-Learning-Path-for-Python.md)
@@ -88,6 +90,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
      - [How to  Implement MLOps in AWS](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
      - [How to use Django in AWS and Data Analytics](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
      - [How to use Streamlit in AWS and Data Analytics](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+
 5. [Specific to PREDICTif](050-Specific)
 
    - [General AWS Directives](050-Specific/00-General-AWS-Directives.md)
