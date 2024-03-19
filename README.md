@@ -52,7 +52,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
    - Serving Your Team
 
      - [How to Fight Schedule Pressure](020-Advanced/Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
-     - [How to Choose What to Work On First](020-Advanced/Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
+     - [How to Choose What to Work On](020-Advanced/Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
      - [How to Find Information](010-Beginner/Team-Skills/03-How-to-Find-Out-Information.md)
      - [How to Get Help From Your Team-mates](020-Advanced/Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
      - [How to Utilize People as Information Sources](010-Beginner/Team-Skills/04-How-to-Utilize-People-as-Information-Sources.md)
