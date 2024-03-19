@@ -20,6 +20,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
 1. [General Skills for Programmers](010-Beginner)
 
    - [How to Approach a Problem](010-Beginner/Personal-Skills/01-Learn-To-Debug.md)
+   - [How to Learn Software Design Skills](010-Beginner/Personal-Skills/11-How-to-Learn-Design-Skills.md)
    - [Learn to Debug](010-Beginner/Personal-Skills/01-Learn-To-Debug.md)
    - [How to Debug by Splitting the Problem Space](010-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
    - [How to Remove an Error](010-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
