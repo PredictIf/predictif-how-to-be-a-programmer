@@ -25,7 +25,6 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
    - [How to Remove an Error](010-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
    - [How to Debug Using a Log](010-Beginner/Personal-Skills/04-How-to-Debug-Using-a-Log.md)
    - [How to Understand and Fix Performance Problems](010-Beginner/Personal-Skills/05-How-to-Understand-Performance-Problems.md)
-   - [How to Optimize Loops](010-Beginner/Personal-Skills/07-How-to-Optimize-Loops.md)
    - [How to Deal with Intermittent Bugs](010-Beginner/Personal-Skills/10-How-to-Deal-with-Intermittent-Bugs.md)
    - [Why Estimation is Important](010-Beginner/Team-Skills/01-Why-Estimation-is-Important.md)
    - [How to Estimate Programming Time](010-Beginner/Team-Skills/02-How-to-Estimate-Programming-Time.md)
@@ -73,7 +72,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
    - [GenAI Tools we Use](020-Intermediate/Personal-Skills/10-Heavy-Tools.md)
    - [How to Start a Project](020-Intermediate/Personal-Skills/09-How-to-Start-a-Project.md)
    - [How to Deliver a Project](020-Intermediate/Personal-Skills/09-How-to-Deliver-a-Project.md)
-  
+
    - AWS Services
 
      - [How Develop a Project in AWS](5-AWS/03-How-to-develop-a-project-in-AWS.md)
@@ -99,3 +98,5 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
 -------------------
 Compiled by: [Marian Dumitrascu](mailto:marian.dumitrascu@predictifsolutions.com) [PREDICTif](https://www.predictif.com) - 2024
 
+
+<!-- - [How to Optimize Loops](010-Beginner/Personal-Skills/07-How-to-Optimize-Loops.md) -->
