@@ -6,11 +6,11 @@ However, the value of this diminishes the more you do it. You are, after all, us
 
 The basic rule is that everyone benefits from talking to you a little bit, and the more they talk to you, the less benefit they derive. It is your job to provide them this benefit, and to get the benefit of communicating with them, keeping the benefit in balance with the time spent.
 
-It is important to respect your own time. If talking to someone, even if it will cost them time, will save you a great deal of time, then you should do it unless you think their time is more valuable than yours, to the tribe, by that factor.
+It is important to respect your own time. If talking to someone, even if it will cost them time, will save you a great deal of time, then you should do it unless you think their time is more valuable than yours.
 
 A strange example of this is the summer intern. A summer intern in a highly technical position can't be expected to accomplish too much; they can be expected to pester the hell out of everybody there. So why is this tolerated? Because the pestered are receiving something important from the intern. They get a chance to show-off a little. They get a chance to hear some new ideas, maybe; they get a chance to see things from a different perspective. They may also be trying to recruit the intern, but even if this is not the case there is much to gain.
 
-You should ask people for a little bit of their wisdom and judgement whenever you honestly believe they have something to say. This flatters them and you will learn something and teach them something. A good programmer does not often need the advice of a Vice President of Sales, but if you ever do, you be sure to ask for it. I once asked to listen in on a few sales calls to better understand the job of our sales staff. This took no more than 30 minutes but I think that small effort made an impression on the sales force.
+You should ask people for a little bit of their wisdom and judgement whenever you honestly believe they have something to say. This flatters them and you will learn something and teach them something. A good programmer does not often need the advice of a Vice President of Sales, but if you ever do, you be sure to ask for it. 
 
 <!-- Next [How to Document Wisely](05-How-to-Document-Wisely.md)
 
