@@ -99,7 +99,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
 
 
 -------------------
-Compiled by: [Marian Dumitrascu](mailto:marian.dumitrascu@predictifsolutions.com) [PREDICTif](https://www.predictif.com) - 2024
+Compiled by: [Marian Dumitrascu](mailto:marian.dumitrascu@predictifsolutions.com) - [PREDICTif](https://www.predictif.com) - 2024
 
 
 <!-- - [How to Optimize Loops](010-Beginner/Personal-Skills/07-How-to-Optimize-Loops.md) -->
