@@ -73,12 +73,14 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
    - [GenAI Tools we Use](020-Intermediate/Personal-Skills/10-Heavy-Tools.md)
    - [How to Start a Project](020-Intermediate/Personal-Skills/09-How-to-Start-a-Project.md)
    - [How to Deliver a Project](020-Intermediate/Personal-Skills/09-How-to-Deliver-a-Project.md)
+  
    - AWS Services
 
      - [How Develop a Project in AWS](5-AWS/03-How-to-develop-a-project-in-AWS.md)
-     - [How to Find Accelerators for AWS](5-AWS/02-How-to-Find-Accelerators-for-AWS.md)
-     - [How to Implement CI/CD in AWS](5-AWS/03-How-to-develop-a-project-in-AWS.md)
-     - [How to Approach Migration](5-AWS/04-How-to-Approach-Migration-to-AWS.md)
+     - [How to Find Accelerators for AWS Projects](5-AWS/02-How-to-Find-Accelerators-for-AWS.md)
+     - [How to Implement CI/CD for AWS Projects](5-AWS/03-How-to-develop-a-project-in-AWS.md)
+     - [How to Approach AWS Migration](5-AWS/04-How-to-Approach-Migration-to-AWS.md)
+
    - Data Analytics
 
      - [How to Analyze Data](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
