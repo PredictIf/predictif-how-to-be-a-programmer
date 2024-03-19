@@ -47,7 +47,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
      - [How to Deal with Difficult People](en/010-Beginner/Team-Skills/11-How-to-Deal-with-Difficult-People.md)
      - [How to Tradeoff Quality Against Development Time](020-Intermediate/Judgment/01-How-to-Tradeoff-Quality-Against-Development-Time.md)
      - [How to Manage Software System Dependence](020-Intermediate/Judgment/02-How-to-Manage-Software-System-Dependence.md)
-   -
+
    - Serving Your Team
 
      - [How to Fight Schedule Pressure](020-Advanced/Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
