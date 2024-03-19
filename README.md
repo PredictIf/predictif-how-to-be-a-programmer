@@ -2,18 +2,18 @@
 
 ## Introduction
 
-<!-- Welcome to the **PREDICTif Programmer's Handbook**, a guide through the complexities of excelling as a programmer at PREDICTif. Mastery in programming goes beyond writing code with intelligence and skill; it's about harmonizing with your team and achieving excellence that transcends the code itself.
+Welcome to the **PREDICTif Programmer's Handbook**, a guide through the complexities of excelling as a programmer at PREDICTif. Mastery in programming goes beyond writing code with intelligence and skill; it's about harmonizing with your team and achieving excellence that transcends the code itself.
 
 This document intents to address, the essence of what it means to be not just a good programmer, but a great developer within the PREDICTif landscape. We delve into the realms of technical skills, relationship with team-mates and clients, and the specificity of our industry, AWS, and our particular niche This guide combine universally applicable wisdom and insights specific to PREDICTif, shaped by our experience as well as explicit paths of learning and tools to use in PREDICTif.
 
-Welcome to PREDICTif, where your journey towards becoming an exceptional programmer begins! -->
+Welcome to PREDICTif, where your journey towards becoming an exceptional programmer begins!
 
-Welcome to the **PREDICTif Programmer's Handbook**! This guide is here to help you become an outstanding programmer at PREDICTif. Being great at programming isn't just about writing smart code. It's also about working well with your team and achieving goals that go beyond the code.
+<!-- Welcome to the **PREDICTif Programmer's Handbook**! This guide is here to help you become an outstanding programmer at PREDICTif. Being great at programming isn't just about writing smart code. It's also about working well with your team and achieving goals that go beyond the code.
 
 In this document, we're going to cover what it takes to be not just good, but great at developing software with us. We'll look at technical skills, how to work with teammates and clients, and the specifics of our field, including AWS and our particular focus areas. This guide offers advice and insights that are
 unevrsally applicable as well as tips, tools, and "way we do things" specific to PREDICTif.
 
-Welcome to PREDICTif, where you start your journey to becoming an amazing programmer!
+Welcome to PREDICTif, where you start your journey to becoming an amazing programmer! -->
 
 ## Contents
 
