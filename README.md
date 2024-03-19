@@ -30,6 +30,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
    - [How to Estimate Programming Time](010-Beginner/Team-Skills/02-How-to-Estimate-Programming-Time.md)
    - [How to Manage Development Time](020-Intermediate/Team-Skills/01-How-to-Manage-Development-Time.md)
    - [How to Document Wisely](010-Beginner/Team-Skills/05-How-to-Document-Wisely.md)
+   - [Take Breaks when Stumped](010-Beginner/Team-Skills/09-Take-Breaks-when-Stumped.md)
    - [How to Work with Poor Code](010-Beginner/Team-Skills/06-How-to-Work-with-Poor-Code.md)
    - [How to Use Source Code Control](010-Beginner/Team-Skills/07-How-to-Use-Source-Code-Control.md)
    - [How to Unit Test](010-Beginner/Team-Skills/08-How-to-Unit-Test.md)
