@@ -8,9 +8,11 @@ If you need *general knowledge about something subjective* the history of what p
 
 If you need to know *how to do something that is not trivial* get two or three books on the subject and read them. You might learn how to do something trivial, like install a software package, from the Internet. You can even learn important things, like good programming technique, but you can easily spend more time searching and sorting the results and attempting to divine the authority of the results than it would take to read the pertinent part of a solid book.
 
-If you need *information that no one else could be expected to know*, for example, ‘can this new GenAI model efficiently process natural language understanding tasks in multiple languages simultaneously?’, you must still search the internet and the library. After those options are completely exhausted, you may design an experiment to ascertain it.
+Just recently this problem can be approached very efficiently by using a GenAI chat. Ask it to prepare for you the most relevant and up-to-date information on the topic you are interested in.
 
-If you want an opinion or a value judgement that takes into account some unique circumstance, talk to an expert. For instance, if you want to know whether or not it is a good idea to build a modern database management system in LISP, you should talk to a LISP expert and a database expert.
+If you need *information that no one else could be expected to know*, for example, ‘can this new GenAI model process tabular data and extract insights?’, you must still search the internet and the library. After those options are completely exhausted, you may design an experiment to ascertain it.
+
+If you want an opinion or a value judgment that takes into account some unique circumstance, talk to an expert. For instance, if you want to know whether it is a good idea to implement quantum computing algorithms in your cybersecurity framework, you should talk to a quantum computing expert and a cybersecurity expert.
 
 If you want to know *how likely it is* that a faster algorithm for a particular application exists that has not yet been published, talk to someone working in that field.
 
