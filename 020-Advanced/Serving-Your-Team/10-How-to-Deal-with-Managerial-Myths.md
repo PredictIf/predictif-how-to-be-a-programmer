@@ -1,13 +1,11 @@
 # How to Deal with Managerial Myths
 
-The word *myth* sometimes means fiction. But it has a deeper connotation. It also means a story of religious significance that explains the universe and mankind's relationship to it. Managers tend to forget what they learned as programmers and believe in certain myths. It would be as rude and unsuccessful to try to convince them these myths are false as to try to disillusion a devoutly religious person of their beliefs. For that reason, you should recognize these beliefs as myths:
+The term *myth* often suggests a fabrication, yet its significance extends beyond mere fiction to embody tales with profound religious meanings that elucidate the cosmos and our place within it. Managers, having transitioned away from their programming roots, may hold certain myths to be true. Directly challenging these beliefs is as futile as attempting to sway a deeply religious individual from their faith. Hence, it's crucial to acknowledge these managerial myths:
 
-- More documentation is always better. (They want it, but they don't want you to spend any time on it.)
-- Programmers can be equated. (Programmers vary by an order of magnitude.)
-- Resources can be added to a late project to speed it. (The cost of communication with the new persons is almost always more taxing than helpful.)
-- It is possible to estimate software development reliably. (It is not even theoretically possible.)
-- Programmers' productivity can be measured in terms of some simple metric, like lines of code. (If succinctness is power, lines of code are bad, not good.)
+- The belief that more documentation invariably enhances a project. (They desire documentation but prefer you not to dedicate much time to it.)
+- The assumption that all programmers are interchangeable. (In reality, the skill range among programmers is vast.)
+- The notion that adding more resources to a delayed project will expedite completion. (Often, the increased communication overhead outweighs any potential benefits.)
+- The idea that software development timelines can be predicted accurately. (Such precision in estimates is fundamentally unattainable.)
+- The view that a programmer's output can be quantified through simplistic metrics, such as lines of code. (Given that efficiency often means writing less code, this metric is flawed.)
 
-If you have an opportunity, you can try to explain these things, but don't feel bad if you have no success and don't damage your reputation by confronting these myths belligerently. Each of these myths reinforces the manager's idea that they have some actual control over what is going on. The truth is that managers facilitate if they are good, and impede if they are bad.
-
-Next [How to Deal with Organizational Chaos](11-How-to-Deal-with-Organizational-Chaos.md)
+Should the chance arise, you might attempt to gently correct these misconceptions, but don't be disheartened if you don't make headway, nor risk your standing by aggressively disputing these myths. Each myth perpetuates the illusion of managerial control over the unpredictable nature of software development. In truth, effective managers are those who enable their teams, whereas ineffective ones hinder progress.
