@@ -53,6 +53,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
      - [How to Choose What to Work On First](020-Advanced/Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
      - [How to Find Information](010-Beginner/Team-Skills/03-How-to-Find-Out-Information.md)
      - [How to Get Help From Your Team-mates](020-Advanced/Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
+     - [How to Utilize People as Information Sources](010-Beginner/Team-Skills/04-How-to-Utilize-People-as-Information-Sources.md)
      - [How to Divide Problems Up](020-Advanced/Serving-Your-Team/04-How-to-Divide-Problems-Up.md)
      - [How to Grow a System](020-Advanced/Serving-Your-Team/07-How-to-Grow-a-System.md)
      - [How to Understand the User/Client](020-Advanced/Compromising-Wisely/02-How-to-Understand-the-User.md)
