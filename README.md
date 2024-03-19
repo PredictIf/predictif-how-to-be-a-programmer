@@ -66,8 +66,8 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
    - [Learning Path for Parallel Python](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
    - [Learning Path for Ansible specific to AWS](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
    - [Learning Path for React](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
-4. [AWS and Data Analytics](5-AWS)
 
+4. [AWS and Data Analytics](5-AWS)
    - [Heavy Tools we Use](020-Intermediate/Personal-Skills/10-Heavy-Tools.md)
    - [GenAI Tools we Use](020-Intermediate/Personal-Skills/10-Heavy-Tools.md)
    - [How to Start a Project](020-Intermediate/Personal-Skills/09-How-to-Start-a-Project.md)
