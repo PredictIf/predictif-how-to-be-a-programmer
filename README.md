@@ -19,7 +19,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
 
 1. [General Skills for Programmers](010-Beginner)
 
-   - [How to Approach a Problem](010-Beginner/Personal-Skills/01-Learn-To-Debug.md)
+   - [How to Approach a Problem (wip)](010-Beginner/Personal-Skills/01-Learn-To-Debug.md)
    - [How to Learn Software Design Skills](010-Beginner/Personal-Skills/11-How-to-Learn-Design-Skills.md)
    - [Learn to Debug](010-Beginner/Personal-Skills/01-Learn-To-Debug.md)
    - [How to Debug by Splitting the Problem Space](010-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
@@ -63,36 +63,38 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
 3. [Learning Paths for Our Industry](4-Skills)
 
    - [**Learning Path if New at PREDICTif**](4-Skills/01-Learning-For-New-Developers.md)
-   - [Learning Path for Python](4-Skills/01-Learning-Path-for-Python.md)
-   - [Learning Path for JavaScript](4-Skills/02-Learning-Path-for-JavaScript.md)
-   - [Learning Path for Java](4-Skills/03-Learning-Path-for-Java.md)
-   - [Learning Path for Parallel Python](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
-   - [Learning Path for Ansible specific to AWS](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
-   - [Learning Path for React](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
-4. [AWS and Data Analytics](5-AWS)
+   - [Learning Path for Python (wip)](4-Skills/01-Learning-Path-for-Python.md)
+   - [Learning Path for JavaScript (wip)](4-Skills/02-Learning-Path-for-JavaScript.md)
+   - [Learning Path for Java (wip)](4-Skills/03-Learning-Path-for-Java.md)
+   - [Learning Path for Parallel Python (wip)](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
+   - [Learning Path for Ansible specific to AWS  (wip)](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
+   - [Learning Path for React  (wip)](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
+4. [AWS and Data Analytics (wip)](5-AWS)
 
-   - [Heavy Tools we Use](020-Intermediate/Personal-Skills/10-Heavy-Tools.md)
-   - [GenAI Tools we Use](020-Intermediate/Personal-Skills/10-Heavy-Tools.md)
-   - [How to Start a Project](020-Intermediate/Personal-Skills/09-How-to-Start-a-Project.md)
-   - [How to Deliver a Project](020-Intermediate/Personal-Skills/09-How-to-Deliver-a-Project.md)
+   - [Heavy Tools we Use (wip)](020-Intermediate/Personal-Skills/10-Heavy-Tools.md)
+   - [GenAI Tools we Use (wip)](020-Intermediate/Personal-Skills/10-Heavy-Tools.md)
+   - [How to Start a Project (wip)](020-Intermediate/Personal-Skills/09-How-to-Start-a-Project.md)
+   - [How to Deliver a Project (wip)](020-Intermediate/Personal-Skills/09-How-to-Deliver-a-Project.md)
    - AWS Services
 
-     - [How Develop a Project in AWS](5-AWS/03-How-to-develop-a-project-in-AWS.md)
-     - [How to Find Accelerators for AWS Projects](5-AWS/02-How-to-Find-Accelerators-for-AWS.md)
-     - [How to Implement CI/CD for AWS Projects](5-AWS/03-How-to-develop-a-project-in-AWS.md)
-     - [How to Approach AWS Migration](5-AWS/04-How-to-Approach-Migration-to-AWS.md)
+     - [How Develop a Project in AWS (wip)](5-AWS/03-How-to-develop-a-project-in-AWS.md)
+     - [How to Find Accelerators for AWS Projects (wip)](5-AWS/02-How-to-Find-Accelerators-for-AWS.md)
+     - [How to Implement CI/CD for AWS Projects (wip)](5-AWS/03-How-to-develop-a-project-in-AWS.md)
+     - [How to Approach AWS Migration (wip)](5-AWS/04-How-to-Approach-Migration-to-AWS.md)
    - Data Analytics
 
      - [How to Analyze Data](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
-     - [How and When to Use Synthetic Data](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
-     - [How to  Implement DataOps in AWS](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
-     - [How to  Implement MLOps in AWS](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
-     - [How to use Django in AWS and Data Analytics](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
-     - [How to use Streamlit in AWS and Data Analytics](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
-5. [Specific to PREDICTif](050-Specific)
+     - [How and When to Use Synthetic Data  (wip)](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+     - [How to  Implement DataOps in AWS (wip)](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+     - [How to  Implement MLOps in AWS (wip)](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+     - [How to use Django in AWS and Data Analytics (wip)](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
+     - [How to use Streamlit in AWS and Data Analytics (wip)](020-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
 
-   - [General AWS Directives](050-Specific/00-General-AWS-Directives.md)
-   - [Naming Convetions](050-Specific/01-Naming-Conventions.md)
+5. [Specific to PREDICTif  (wip)](050-Specific)
+
+   - [General AWS Directives  (wip)](050-Specific/00-General-AWS-Directives.md)
+   - [Naming Convetions  (wip)](050-Specific/01-Naming-Conventions.md)
+   - [Scafolding a Data Project  (wip)](050-Specific/02-Scaffolding-a-Data-Project.md)
 
 ---
 
