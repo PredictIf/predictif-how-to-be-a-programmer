@@ -7,3 +7,5 @@ Next, you need to apply what you've learned. Kick off with a modest project. Upo
 While developing a personal design style is beneficial, it's important to recognize that software design is more art than science. Authors of design literature often portray their methodologies as more scientific than they are in practice. Avoid becoming overly rigid in adhering to specific design philosophies.
 
 
+
+
