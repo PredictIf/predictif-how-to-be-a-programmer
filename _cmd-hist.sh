@@ -1,5 +1,6 @@
 
 # https://github.com/PredictIf/predictif-how-to-be-a-programmer
+# https://github.com/braydie/HowToBeAProgrammer
 
 echo "# predictif-how-to-be-a-programmer" >> README.md
 git init
