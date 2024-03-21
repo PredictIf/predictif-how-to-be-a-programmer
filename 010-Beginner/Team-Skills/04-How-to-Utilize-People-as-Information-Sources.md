@@ -10,7 +10,7 @@ It is important to respect your own time. If talking to someone, even if it will
 
 A strange example of this is the summer intern. A summer intern in a highly technical position can't be expected to accomplish too much; they can be expected to pester the hell out of everybody there. So why is this tolerated? Because the pestered are receiving something important from the intern. They get a chance to show-off a little. They get a chance to hear some new ideas, maybe; they get a chance to see things from a different perspective. They may also be trying to recruit the intern, but even if this is not the case there is much to gain.
 
-You should ask people for a little bit of their wisdom and judgement whenever you honestly believe they have something to say. This flatters them and you will learn something and teach them something. A good programmer does not often need the advice of a Vice President of Sales, but if you ever do, you be sure to ask for it. 
+**You should ask people for a little bit of their wisdom and judgement whenever you honestly believe they have something to say.** This flatters them and you will learn something and teach them something. A good programmer does not often need the advice of a Vice President of Sales, but if you ever do, you be sure to ask for it.
 
 <!-- Next [How to Document Wisely](05-How-to-Document-Wisely.md)
 
