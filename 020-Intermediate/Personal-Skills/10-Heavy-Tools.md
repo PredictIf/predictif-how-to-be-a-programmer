@@ -10,5 +10,3 @@ To my mind right now some of the best heavy tools are:
 - OpenGL,
 - XML parsers, and
 - Spreadsheets.
-
-Next [How to analyze data](11-How-to-analyze-data.md)
