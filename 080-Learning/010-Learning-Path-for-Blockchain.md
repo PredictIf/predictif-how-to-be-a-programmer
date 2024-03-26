@@ -2,7 +2,7 @@
 # Learning Path for Blockchain Programming and Understanding Blockchain Databases
 
 
-Here's a curated guide to get you started on blockchain programming and understanding blockchain databases, now with handy URLs to point you in the right direction:
+Here's a curated guide to get you started on blockchain programming and understanding blockchain databases:
 
 1. **Understand the Basics of Blockchain**:
    - **"Mastering Blockchain" by Imran Bashir** is a comprehensive book, available on Amazon and other book retailers. It doesn't have a free online version, but it's worth checking your local library for access.
