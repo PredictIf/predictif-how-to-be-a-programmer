@@ -69,6 +69,7 @@ Welcome to PREDICTif, where you start your journey to becoming an amazing progra
    - [Learning Path for Parallel Python (wip)](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
    - [Learning Path for Ansible specific to AWS  (wip)](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
    - [Learning Path for React  (wip)](4-Skills/04-Learning-Path-for-Parallel-Programming.md)
+   - [Learning Path for Blockchain](080-Learning/010-Learning-Path-for-Blockchain.md)
 4. [AWS and Data Analytics (wip)](5-AWS)
 
    - [Heavy Tools we Use (wip)](020-Intermediate/Personal-Skills/10-Heavy-Tools.md)
